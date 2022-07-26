@@ -16,7 +16,7 @@ function Home() {
 				items={songs}
 			/>
 			<Section
-				title="Made For Tayfun Erbilen"
+				title="Made For Buse"
 				more="/blabla"
 				items={songs}
 			/>
