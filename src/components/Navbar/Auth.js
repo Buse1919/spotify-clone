@@ -5,7 +5,7 @@ function Auth() {
 
     const user = {
         name: 'Buse',
-        avatar: 'https://i.scdn.co/image/ab6775700000ee856fca122911ed9eec4ce60c1e'
+        avatar: 'https://r.resimlink.com/OZC4rfGjseSM.jpg'
     }
 
     return (
